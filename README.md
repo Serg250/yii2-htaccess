@@ -1,2 +1,2 @@
 # yii2-htaccess
-.htacces files for Yii2 advanced
+.htaccess files for Yii2 advanced
